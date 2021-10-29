@@ -1,0 +1,30 @@
+title: Gregory Hewett
+
+author:
+  name: "Gregory Hewett"
+  avatar: "/assets/images/headshot.jpg"
+  bio: "A programmer who loves to code, read, and travel."
+  location: "Munich, Germany"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/ghewett"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/gmhewett"
+
+social:
+  links:
+    - "https://linkedin.com/in/ghewett"
+    - "https://github.com/gmhewett"
+
+atom_feed:
+  hide: true
+
+include:
+  - _pages
+
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
