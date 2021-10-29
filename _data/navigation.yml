@@ -1,3 +1,5 @@
 main:
   - title: "Blog"
     url: /blog/
+  - title: "Resume"
+    url: "/assets/documents/GregoryHewettResume.pdf"
