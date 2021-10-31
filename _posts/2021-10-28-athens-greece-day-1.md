@@ -1,0 +1,111 @@
+---
+layout: single
+title: "Athens, Greece: Day 1"
+date: "2021-10-28"
+categories: "travel"
+author_profile: true
+excerpt: "Arrival in Athens and a visit to the Ancient Agora."
+header:
+  overlay_image: /assets/images/posts/athens-greece/agora-pano-view.jpeg
+galleryTravel:
+  - url: assets/images/posts/athens-greece/departure-plane.jpeg
+    image_path: assets/images/posts/athens-greece/departure-plane.jpeg
+    title: Departure to Athens.
+    alt: Departure to Athens.
+  - url: assets/images/posts/athens-greece/arrival-view.jpeg
+    image_path: assets/images/posts/athens-greece/arrival-view.jpeg
+    title: Arrival in Athens.
+    alt: Arrival in Athens.
+galleryAgora:
+  - url: "/assets/images/posts/athens-greece/agora-gregory-and-jenni.jpeg"
+    image_path: "/assets/images/posts/athens-greece/agora-gregory-and-jenni.jpeg"
+    title: "Gregory and Jenni at the Agora."
+    alt: "Gregory and Jenni at the Agora."
+  - url: "/assets/images/posts/athens-greece/agora-gregory.jpeg"
+    image_path: "/assets/images/posts/athens-greece/agora-gregory.jpeg"
+    title: "Gregory in the ruins of a building at the Agora."
+    alt: "Gregory in the ruins of a building at the Agora."
+galleryHephaestus:
+  - url: "/assets/images/posts/athens-greece/agora-hephaestus-far.jpeg"
+    image_path: "/assets/images/posts/athens-greece/agora-hephaestus-far.jpeg"
+    title: "Temple of Hephaestus from afar."
+    alt: "Temple of Hephaestus from afar."
+  - url: "/assets/images/posts/athens-greece/agora-hephaestus-close.jpeg"
+    image_path: "/assets/images/posts/athens-greece/agora-hephaestus-close.jpeg"
+    title: "Temple of Hephaestus up close."
+    alt: "Temple of Hephaestus up close."
+  - url: "/assets/images/posts/athens-greece/agora-hephaestus-back.jpeg"
+    image_path: "/assets/images/posts/athens-greece/agora-hephaestus-back.jpeg"
+    title: "Temple of Hephaestus from the back."
+    alt: "Temple of Hephaestus from the back."
+galleryStoa:
+  - url: "/assets/images/posts/athens-greece/agora-stoa-antonius.jpeg"
+    image_path: "/assets/images/posts/athens-greece/agora-stoa-antonius.jpeg"
+    title: "Bust of Antonius."
+    alt: "Bust of Antonius."
+  - url: "/assets/images/posts/athens-greece/agora-stoa-dionysos.jpeg"
+    image_path: "/assets/images/posts/athens-greece/agora-stoa-dionysos.jpeg"
+    title: "Relief of the birth of Dionysos."
+    alt: "Relief of the birth of Dionysos."
+  - url: "/assets/images/posts/athens-greece/agora-stoa-sculpture.jpeg"
+    image_path: "/assets/images/posts/athens-greece/agora-stoa-sculpture.jpeg"
+    title: "Sculpture from the Agora."
+    alt: "Sculpture from the Agora."
+  - url: "/assets/images/posts/athens-greece/agora-stoa-themis.jpeg"
+    image_path: "/assets/images/posts/athens-greece/agora-stoa-themis.jpeg"
+    title: "Statue of Themis (?)."
+    alt: "Statue of Themis (?)."
+galleryLittleKook:
+  - url: "/assets/images/posts/athens-greece/little-kook-alley.jpeg"
+    image_path: "/assets/images/posts/athens-greece/little-kook-alley.jpeg"
+    title: "Alley of tables at Little Kook."
+    alt: "Alley of tables at Little Kook."
+  - url: "/assets/images/posts/athens-greece/little-kook-facade.jpeg"
+    image_path: "/assets/images/posts/athens-greece/little-kook-facade.jpeg"
+    title: "Entrance to Little Kook."
+    alt: "Entrance to Little Kook."
+  - url: "/assets/images/posts/athens-greece/little-kook-brownie-ice-cream.jpeg"
+    image_path: "/assets/images/posts/athens-greece/little-kook-brownie-ice-cream.jpeg"
+    title: "Brownie and ice cream at Little Kook."
+    alt: "Brownie and ice cream at Little Kook."
+  - url: "/assets/images/posts/athens-greece/little-kook-crepe.jpeg"
+    image_path: "/assets/images/posts/athens-greece/little-kook-crepe.jpeg"
+    title: "Chocolate crepe at Little Kook."
+    alt: "Chocolate crepe at Little Kook."
+---
+
+We left Santorini, Athens-bound and masks-on, early on the morning of Tuesday, October 26th. For €25 we received a white-knuckled ride to the airport and arrived in plenty of time to pass through security with ease and reach our gate with time to spare. When it comes to enforcing the size of carry-on baggage, we learned that Rynair is much stricter than Lufthansa in this regard. Standard U.S. carry-on baggage is one centimeter too tall for most international airlines, but almost 3 centimeters too tall for Ryanair. Luckily, because our bags weren’t too far off, the attendant at the gate who was checking bags let us slide through with only a short talking-to. We boarded the plane and easily stored in the overhead bin our carry-on bags that were supposedly “too big.” Phew, embarrassing-American-travelling-abroad-moment averted.
+
+{% include gallery id="galleryTravel" caption="Travel to Athens." %}
+
+Taking a ferry from Athens to Santorini takes roughly 7 hours, but the flight is only 45 minutes. As the plane descended into Athens below the clouds, we realized how mountainous and hilly it is: the city itself sprawls out from its center, touching the ocean to the south and creeping up the hills and mountains to the north, east, and west. Disembarking the plane was a breeze, and as is commonly the custom in Europe, we exited in movie-star fashion down the stairs from the plane to the tarmac where we were herded onto a bus. Soon we were out the door of the airport following signs for the “Train” and making our way downtown after buying two €9, one-way tickets. The train ride took almost 45 minutes, which, according to Google Maps, beat a car ride by five minutes. As we trekked out of the tunnel we had to stop and dig for the train tickets; here in Greece you have to scan tickets when you get on and off the subway.
+
+Our hotel was about a 10 minute walk away from Syntagma Square where we got off the train. This square holds a “tomb of the unknown soldier” very similar to the U.S.’s own, but, not arriving near the top of the hour to witness the changing of the guard, we made our way. Not ten seconds after we figured out which direction to walk, were we interrupted by a call from an unknown Starnberg number. These are always a bit ominous because odds are the person on the other end will not speak much English. This call was about scheduling an installation for our replacement dishwasher, and while dishwasher vocabulary is not in my German repertoire, a few things proved enough for me to explain we were on vacation and would have to schedule for next week. We settled on Wednesday, and I thanked the patient woman for bearing with my broken German. For the trip this was an insignificant moment, but a month ago when this same company called, I could say nothing more helpful than “Sorry, I don’t speak German,” so this felt quite satisfying.
+
+Arriving so early in the morning, our hotel room was naturally not ready yet, so we dropped off our luggage at the front desk and grabbed some breakfast down the street at Estrella, a quirky cafe that would fit in well in a hipster town like Austin or Portland. With backpacks on we headed towards the Ancient Agora of Athens by way of Hadrian’s Library. The Library of Hadrian still stands with an imposing facade on a main road that is packed with tourists, shops, and restaurants. The library was built by the Roman emperor Hadrian in 132 AD and housed rolls of papyrus “books” but was destroyed, like so much of ancient Athens, during the Herulian invasion of 267 AD.
+
+{% include figure_with_url
+    url="/assets/images/posts/athens-greece/hadrians-library.jpeg"
+    image_path="/assets/images/posts/athens-greece/hadrians-library.jpeg"
+    caption="Hadrian's Library."
+%}
+
+The next stop down the street from Hadrian’s Library was the entrance to the Ancient Agora. Here we decided to buy a couple of €30 5-day passes which would give us access to all of the ancient ruins and most of the sights we wanted to hit. Slowly we made our way around the Agora, combining the placards installed alongside the ruins with the power of Wikipedia to create our own guided tour. The citizens of ancient Athens used the Agora as a commercial market and civic gathering place, a town square of sorts. The largest effort to excavate the Agora began in the early 20th century, and largely what remains is, unsurprisingly, the foundations of its many buildings. A considerable number of the buildings served as political halls, housing the democratic leaders of each Greek city-state; one in particular noted that representatives from each city-state occupied the building for 30-something days of the year so that each group had a turn to administer the affairs of the people.
+
+{% include gallery id="galleryAgora" caption="Pictures of us at the Agora." %}
+
+The most impressive remains in the Agora is without doubt the Temple of Hephaestus. Hephaestus was the patron god of metalworking, craftsmanship, and fire, and this honoree is no surprise since many metalworking and pottery shops were located nearby. Construction started on this building in 449 BC, and, unbelievably, it is almost wholly intact. It’s completeness alone makes it stand apart from any other temple remains in Athens, yet it is the most accessible: one can get within a few feet of the temple on all sides.
+
+{% include gallery id="galleryHephaestus" caption="The Temple of Hephaestus." %}
+
+The Stoa of Attalos sits on the opposite side of the Agora. Fully reconstructed during the 20th century, this long building stretches almost the entire length of the eastern side of the Agora. In ancient Athens, it was used as a market; today, it houses the Museum of the Ancient Agora. Here we saw many (usually headless) sculptures that would have been found in the Agora itself, along with pottery and other artifacts from the area. Walking around inside made the building feel enormous, and one could easily imagine a bustling center of tradesmen and farmers.
+
+{% include gallery id="galleryStoa" caption="The Stoa of Attalos." %}
+
+Fully into the afternoon and a bit weary from travelling, we opted to head back to the hotel for some rest. A dirty and unprepared room greeted us at the hotel, however, so we found our way to a cafe called Louis where we snacked on a pizza while our room was cleaned. Fully nourished and trusting our third visit to the hotel would be successful, we made our way back and successfully checked in. Here we rested for a few hours until dinner, deciding that we were a bit too tired to fully enjoy any more sights today.
+
+As night fell we left the hotel bound for Psiri, one of the most artistic and vibrant neighborhoods of Athens. Even on a Tuesday night, the streets were packed and people crowded past each other on the typically narrow sidewalks. After about a fifteen minute walk we arrived only to find our pre-chosen restaurant closed, perhaps either for the day or for the season. The silver lining was finding Little Kook next door, a local gem that elaborately decorates their dessert shop to fit the season, currently adorned in extravagant Halloween decorations. Resolved to come back, we roamed the streets looking for a place to have dinner. We found \_\_\_\_ and settled in at a table outside next to a heat warmer, a good find since the sun was fully set and the night was getting colder. After we had some refreshments, we learned the kitchen was closed and we could only order drinks, but we laughed it off and decided we could get our fill at Little Kook afterwards. We stayed there a few hours and enjoyed the conversation, fitting in with the many others sitting outside the restaurants near us while a street performer twirling and spinning ropes of fire provided the entertainment.
+
+Finally, we made our way to Little Kook and found the inside of the restaurant even more decorated than the outside. Jenni, elated to find a chocolate brownie on the menu, enjoyed hers with ice cream while I savored a chocolate crepe. Not able to eat another bite, we paid our bill and made our walk back to the hotel and called it a night.
+
+{% include gallery id="galleryLittleKook" caption="Little Kook." %}
