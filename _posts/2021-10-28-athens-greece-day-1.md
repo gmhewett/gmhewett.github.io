@@ -3,73 +3,74 @@ layout: single
 title: "Athens, Greece: Day 1"
 date: "2021-10-28"
 categories: "travel"
+tags: "greece athens"
 author_profile: true
 excerpt: "Arrival in Athens and a visit to the Ancient Agora."
 header:
-  overlay_image: /assets/images/posts/athens-greece/agora-pano-view.jpeg
+  overlay_image: /assets/images/posts/athens-greece-day-1/agora-pano-view.jpeg
 galleryTravel:
-  - url: assets/images/posts/athens-greece/departure-plane.jpeg
-    image_path: assets/images/posts/athens-greece/departure-plane.jpeg
+  - url: assets/images/posts/athens-greece-day-1/departure-plane.jpeg
+    image_path: assets/images/posts/athens-greece-day-1/departure-plane.jpeg
     title: Departure to Athens.
     alt: Departure to Athens.
-  - url: assets/images/posts/athens-greece/arrival-view.jpeg
-    image_path: assets/images/posts/athens-greece/arrival-view.jpeg
+  - url: assets/images/posts/athens-greece-day-1/arrival-view.jpeg
+    image_path: assets/images/posts/athens-greece-day-1/arrival-view.jpeg
     title: Arrival in Athens.
     alt: Arrival in Athens.
 galleryAgora:
-  - url: "/assets/images/posts/athens-greece/agora-gregory-and-jenni.jpeg"
-    image_path: "/assets/images/posts/athens-greece/agora-gregory-and-jenni.jpeg"
+  - url: "/assets/images/posts/athens-greece-day-1/agora-gregory-and-jenni.jpeg"
+    image_path: "/assets/images/posts/athens-greece-day-1/agora-gregory-and-jenni.jpeg"
     title: "Gregory and Jenni at the Agora."
     alt: "Gregory and Jenni at the Agora."
-  - url: "/assets/images/posts/athens-greece/agora-gregory.jpeg"
-    image_path: "/assets/images/posts/athens-greece/agora-gregory.jpeg"
+  - url: "/assets/images/posts/athens-greece-day-1/agora-gregory.jpeg"
+    image_path: "/assets/images/posts/athens-greece-day-1/agora-gregory.jpeg"
     title: "Gregory in the ruins of a building at the Agora."
     alt: "Gregory in the ruins of a building at the Agora."
 galleryHephaestus:
-  - url: "/assets/images/posts/athens-greece/agora-hephaestus-far.jpeg"
-    image_path: "/assets/images/posts/athens-greece/agora-hephaestus-far.jpeg"
+  - url: "/assets/images/posts/athens-greece-day-1/agora-hephaestus-far.jpeg"
+    image_path: "/assets/images/posts/athens-greece-day-1/agora-hephaestus-far.jpeg"
     title: "Temple of Hephaestus from afar."
     alt: "Temple of Hephaestus from afar."
-  - url: "/assets/images/posts/athens-greece/agora-hephaestus-close.jpeg"
-    image_path: "/assets/images/posts/athens-greece/agora-hephaestus-close.jpeg"
+  - url: "/assets/images/posts/athens-greece-day-1/agora-hephaestus-close.jpeg"
+    image_path: "/assets/images/posts/athens-greece-day-1/agora-hephaestus-close.jpeg"
     title: "Temple of Hephaestus up close."
     alt: "Temple of Hephaestus up close."
-  - url: "/assets/images/posts/athens-greece/agora-hephaestus-back.jpeg"
-    image_path: "/assets/images/posts/athens-greece/agora-hephaestus-back.jpeg"
+  - url: "/assets/images/posts/athens-greece-day-1/agora-hephaestus-back.jpeg"
+    image_path: "/assets/images/posts/athens-greece-day-1/agora-hephaestus-back.jpeg"
     title: "Temple of Hephaestus from the back."
     alt: "Temple of Hephaestus from the back."
 galleryStoa:
-  - url: "/assets/images/posts/athens-greece/agora-stoa-antonius.jpeg"
-    image_path: "/assets/images/posts/athens-greece/agora-stoa-antonius.jpeg"
+  - url: "/assets/images/posts/athens-greece-day-1/agora-stoa-antonius.jpeg"
+    image_path: "/assets/images/posts/athens-greece-day-1/agora-stoa-antonius.jpeg"
     title: "Bust of Antonius."
     alt: "Bust of Antonius."
-  - url: "/assets/images/posts/athens-greece/agora-stoa-dionysos.jpeg"
-    image_path: "/assets/images/posts/athens-greece/agora-stoa-dionysos.jpeg"
+  - url: "/assets/images/posts/athens-greece-day-1/agora-stoa-dionysos.jpeg"
+    image_path: "/assets/images/posts/athens-greece-day-1/agora-stoa-dionysos.jpeg"
     title: "Relief of the birth of Dionysos."
     alt: "Relief of the birth of Dionysos."
-  - url: "/assets/images/posts/athens-greece/agora-stoa-sculpture.jpeg"
-    image_path: "/assets/images/posts/athens-greece/agora-stoa-sculpture.jpeg"
+  - url: "/assets/images/posts/athens-greece-day-1/agora-stoa-sculpture.jpeg"
+    image_path: "/assets/images/posts/athens-greece-day-1/agora-stoa-sculpture.jpeg"
     title: "Sculpture from the Agora."
     alt: "Sculpture from the Agora."
-  - url: "/assets/images/posts/athens-greece/agora-stoa-themis.jpeg"
-    image_path: "/assets/images/posts/athens-greece/agora-stoa-themis.jpeg"
+  - url: "/assets/images/posts/athens-greece-day-1/agora-stoa-themis.jpeg"
+    image_path: "/assets/images/posts/athens-greece-day-1/agora-stoa-themis.jpeg"
     title: "Statue of Themis (?)."
     alt: "Statue of Themis (?)."
 galleryLittleKook:
-  - url: "/assets/images/posts/athens-greece/little-kook-alley.jpeg"
-    image_path: "/assets/images/posts/athens-greece/little-kook-alley.jpeg"
+  - url: "/assets/images/posts/athens-greece-day-1/little-kook-alley.jpeg"
+    image_path: "/assets/images/posts/athens-greece-day-1/little-kook-alley.jpeg"
     title: "Alley of tables at Little Kook."
     alt: "Alley of tables at Little Kook."
-  - url: "/assets/images/posts/athens-greece/little-kook-facade.jpeg"
-    image_path: "/assets/images/posts/athens-greece/little-kook-facade.jpeg"
+  - url: "/assets/images/posts/athens-greece-day-1/little-kook-facade.jpeg"
+    image_path: "/assets/images/posts/athens-greece-day-1/little-kook-facade.jpeg"
     title: "Entrance to Little Kook."
     alt: "Entrance to Little Kook."
-  - url: "/assets/images/posts/athens-greece/little-kook-brownie-ice-cream.jpeg"
-    image_path: "/assets/images/posts/athens-greece/little-kook-brownie-ice-cream.jpeg"
+  - url: "/assets/images/posts/athens-greece-day-1/little-kook-brownie-ice-cream.jpeg"
+    image_path: "/assets/images/posts/athens-greece-day-1/little-kook-brownie-ice-cream.jpeg"
     title: "Brownie and ice cream at Little Kook."
     alt: "Brownie and ice cream at Little Kook."
-  - url: "/assets/images/posts/athens-greece/little-kook-crepe.jpeg"
-    image_path: "/assets/images/posts/athens-greece/little-kook-crepe.jpeg"
+  - url: "/assets/images/posts/athens-greece-day-1/little-kook-crepe.jpeg"
+    image_path: "/assets/images/posts/athens-greece-day-1/little-kook-crepe.jpeg"
     title: "Chocolate crepe at Little Kook."
     alt: "Chocolate crepe at Little Kook."
 ---
@@ -85,8 +86,8 @@ Our hotel was about a 10 minute walk away from Syntagma Square where we got off 
 Arriving so early in the morning, our hotel room was naturally not ready yet, so we dropped off our luggage at the front desk and grabbed some breakfast down the street at Estrella, a quirky cafe that would fit in well in a hipster town like Austin or Portland. With backpacks on we headed towards the Ancient Agora of Athens by way of Hadrian’s Library. The Library of Hadrian still stands with an imposing facade on a main road that is packed with tourists, shops, and restaurants. The library was built by the Roman emperor Hadrian in 132 AD and housed rolls of papyrus “books” but was destroyed, like so much of ancient Athens, during the Herulian invasion of 267 AD.
 
 {% include figure_with_url
-    url="/assets/images/posts/athens-greece/hadrians-library.jpeg"
-    image_path="/assets/images/posts/athens-greece/hadrians-library.jpeg"
+    url="/assets/images/posts/athens-greece-day-1/hadrians-library.jpeg"
+    image_path="/assets/images/posts/athens-greece-day-1/hadrians-library.jpeg"
     caption="Hadrian's Library."
 %}
 
