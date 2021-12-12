@@ -56,6 +56,10 @@ galleryStadium2:
     image_path: assets/images/posts/athens-greece-day-3/pano-view.jpeg
     title: A panoramic view from the Panathenaic Stadium.
     alt: A panoramic view from the Panathenaic Stadium.
+  - url: assets/images/posts/athens-greece-day-3/podium.jpeg
+    image_path: assets/images/posts/athens-greece-day-3/podium.jpeg
+    title: Us standing on the podium.
+    alt: Us standing on the podium.
 ---
 
 A delicious Greek breakfast in the crisp morning air kicked off our third and final day in Athens. Savoring a local favorite called Strapatsada, Jenni and I planned an Olympic-filled itinerary that included some of Athens’ must-see attractions. And even though we anticipated an incredible time ahead, we were skeptical that it could live up to our two previous days in Athens; nonetheless, after all of our destinations were carefully mapped out, we paid our bill and set off to meet the day.
@@ -84,10 +88,10 @@ The arch looms large and beckons the beholder into the eastern part of the capit
 
 While these monuments were impressive, the only Olympic attribute of the temple is its name, so we weren’t quite feeling the Olympic spirit. Luckily, a twenty-minute walk brought us to our next stop, the Panathenaic Stadium, where we felt immersed in Olympic history as we took a self-guided audio tour around the track. Originally built in 330 BC and later reconstructed with 100% whilte marble in 144 AD, this long, storied stadium has played host to both athletic events and gladiatorial combat. The first modern Olympics were held here in 1896, and every year it showcases the passing of the Olympic torch to the host nation. We felt like royalty as we sat in the stone thrones at the far end of the stadium and watched some local athletes who were actually there to train.
 
-{% include gallery id="galleryStadium1" caption="Temple of the Olympian Zeus." %}
+{% include gallery id="galleryStadium1" caption="Panathenaic Stadium." %}
 
 Unexpectedly, our tour led us into a long tunnel where we eventually found a small museum of Olympic torches and artifacts. After a quick stop here, we re-entered the stadium through the same tunnel like football players on game day. Perhaps feeling motivated by the Olympic aurora, we trekked up the stairs to the highest row, taking in a panoramic view of the stadium with the Acropolis adorning the background. We finished our tour and lap around the track at the podium, graciously awarding ourselves first place.
 
-{% include gallery id="galleryStadium2" caption="Temple of the Olympian Zeus." %}
+{% include gallery id="galleryStadium2" caption="Panathenaic Stadium." %}
 
 As we left the stadium, we grabbed some slushies and found a spot in the sun to take a breather, reflecting on how special this trip to Greece had been. Each day better than the last, we fell in love with the city of Athens—particularly its history and food. Seeing the ancient monuments and experiencing this city up close was a fantasy fulfilled, and we sat there for a moment feeling thankful for the experience. With enough Olympic memories made, we maneuvered back to the hotel to rest up before dinner. Later in the evening, for the first time in Athens we ate dinner at a restaurant we picked out online. We enjoyed a delicious meal on the rooftop deck of Maiandros, ignoring the warnings of the host and braving the chilly evening air. With another great view of the Acropolis, we savored the perfect end to the perfect vacation.
