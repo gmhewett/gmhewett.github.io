@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Athens, Greece: Day 2"
-date: "2021-10-29"
+date: "2021-10-27"
 categories: "travel"
 tags: "greece athens"
 author_profile: true
