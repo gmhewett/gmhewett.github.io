@@ -83,7 +83,7 @@ Travelling by ferry from Santorini to Athens takes roughly 7 hours, but the flig
 
 The first thing we visited in Athens was right outside our train station: Syntagma Square, which holds a “tomb of the unknown soldier” similar to the U.S.’s own, but, not arriving near the top of the hour to witness the changing of the guard, we continued onward towards our hotel. But, since we arrived so early, our hotel room was naturally not ready yet; we dropped off our luggage at the front desk and grabbed some breakfast down the street at Estrella, a quirky cafe that would fit in well in a hipster town like Austin or Portland.
 
-With backpacks on and coffee drunk we headed towards he Library of Hadrian. The eponymous library was built by the Roman emperor Hadrian in 132 AD and housed rolls of papyrus “books;” but, like so much of ancient Athens, it was destroyed durign the Herulian invasion of 267 AD. Nonetheless, it still stands with an imposing facade on a main road that is packed with tourists, shops, and restaurants.
+With backpacks on and coffee drunk we headed towards the Library of Hadrian. The eponymous library was built by the Roman emperor Hadrian in 132 AD and housed rolls of papyrus “books;” but, like so much of ancient Athens, it was destroyed durign the Herulian invasion of 267 AD. Nonetheless, it still stands with an imposing facade on a main road that is packed with tourists, shops, and restaurants.
 
 {% include figure_with_url
     url="/assets/images/posts/athens-greece-day-1/hadrians-library.jpeg"
