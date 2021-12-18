@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Athens, Greece: Day 3"
+title: "Athens: Day 3"
 date: "2021-10-28"
 categories: "travel"
 tags: "greece athens"
