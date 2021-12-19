@@ -17,6 +17,10 @@ galleryGendarmenmarkt:
     image_path: assets/images/posts/berlin-germany-christmas-markets/gendarmenmarkt-mug.jpeg
     title: View of Gendarmenmarkt with Glühwein in hand.
     alt: View of Gendarmenmarkt with Glühwein in hand.
+  - url: assets/images/posts/berlin-germany-christmas-markets/gendarmenmarkt-thuringers.jpeg
+    image_path: assets/images/posts/berlin-germany-christmas-markets/gendarmenmarkt-thuringers.jpeg
+    title: Thüringers at Gendarmenmarkt.
+    alt: Thüringers at Gendarmenmarkt.
   - url: assets/images/posts/berlin-germany-christmas-markets/gendarmentmark-nativity.jpeg
     image_path: assets/images/posts/berlin-germany-christmas-markets/gendarmentmark-nativity.jpeg
     title: Nativity scene at Gendarmenmarkt.
