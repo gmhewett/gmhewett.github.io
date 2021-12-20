@@ -1,13 +1,3 @@
----
-layout: single
-title: "Athens: Day 1"
-date: "2021-10-26"
-categories: "travel"
-tags: "greece athens"
-author_profile: true
-excerpt: "Arrival in Athens and a visit to the Ancient Agora."
----
-
 1. Spin up a $5 DigitalOcean Ubuntu Droplet.
 1. Follow https://matomo.org/docs/requirements/
    1. run `sudo apt-get install php php-curl php-gd php-cli mysql-server php-mysql php-xml php-mbstring`
