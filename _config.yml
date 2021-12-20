@@ -28,3 +28,6 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+
+head_scripts:
+  - /assets/js/matomo.js
