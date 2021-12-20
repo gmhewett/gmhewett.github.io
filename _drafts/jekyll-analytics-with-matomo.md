@@ -27,3 +27,35 @@ excerpt: "Arrival in Athens and a visit to the Ancient Agora."
    1. run `chown -R www-data:www-data /var/www/html/matomo`
 1. Go through install steps.
 1. Follow these steps: https://mmistakes.github.io/minimal-mistakes/docs/javascript/#customizing
+1. for the tracking code, enforce http for now.
+
+https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-18-04#step-5-%E2%80%94-setting-up-virtual-hosts-recommended
+
+1. run `sudo vi /etc/apache2/sites-available/matomo.conf`
+   copy
+
+```
+<VirtualHost *:80>
+    ServerAdmin admin@localhost
+    ServerName analytics.gregoryhewett.com
+    ServerAlias analytics.gregoryhewett.com
+    DocumentRoot /var/www/html/matomo
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+</VirtualHost>
+```
+
+1. run `sudo a2ensite matomo.conf`
+1. run `sudo a2dissite 000-default.conf`
+1. run `sudo apache2ctl configtest`
+1. run `systemctl reload apache2`
+
+cert
+https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-18-04
+
+1. run `sudo add-apt-repository ppa:certbot/certbot`
+1. run `sudo apt install python-certbot-apache`
+1. run `sudo certbot --apache -d analytics.gregoryhewett.com`
+1. enter email
+1. go on
+1. enforce redirect
