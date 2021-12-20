@@ -93,11 +93,11 @@ It did not take long to realize that the long trip to Berlin was worth it. The d
 
 {% include gallery id="galleryGendarmenmarkt" caption="Gendarmenmarkt." %}
 
-We took a few laps around the market to buy some trinkets and enjoy our Glühwein in the crisp winter air. Each market has its own unique Glühwein mug, and we happily forfeited our €3 deposit to keep one as a souvenir. Once our toes began to feel the cold, we decided it was time to head towards the next market and take respite from the wintry air on the U-Bahn.
+We took a few laps around the market to buy some trinkets and enjoy our Glühwein in the crisp winter air. Each market has its own unique Glühwein mug, and we happily forfeited our €3 deposit to keep one as a souvenir. Once our toes began to feel the cold, we decided it was time for a short respite on the U-Bahn on the way to the next market.
 
 Our next step was Alexanderplatz, one of the busiest markets in Berlin. As we waited in line for entry, we noticed a pair of CDC vaccination cards in the hands of the couple in front of us. Jenni and I looked at each other with wide, worried eyes as we silently agreed that this couple _better not mess us up_. When we reached the front to present our documents, we went left, and they went right. I busted out my broken German and Jenni her innocent eyes, and we passed through with ease. However, as we looked back, we sadly saw the other couple being turned away. We pitied them for an instant then high-tailed it around the corner before they could change their minds about us.
 
-We walked around this market for a short while and enjoyed another Glühwein and, of course, kept a mug. The highlight of this market is a beautiful Christmas pyramid—the largest one in Germany—with a windmill on top.
+We walked around this market for a short while, enjoyed another Glühwein, and, of course, kept a mug. The highlight of this market is a beautiful Christmas pyramid—the largest one in Germany—with a windmill on top.
 
 {% include gallery id="galleryAlexanderplatz" caption="Alexanderplatz." %}
 
@@ -105,7 +105,7 @@ As twilight fell over the city, we made one final stop at Rotes Rathaus (Red Cit
 
 {% include gallery id="galleryRotesRathaus" caption="Alexanderplatz." %}
 
-The day finally caught up to us as we found our seats on the train—we were exhausted. But, The adventure was a success, and we were both so glad that we decided to go and delighted with how the day turned out. We loved the markets and felt so grateful that we didn’t miss them. After a day like that, the train ride home felt much, much shorter.
+The day finally caught up to us as we found our seats on the train—we were exhausted. But, the adventure was a success, and we were both glad that we decided to go and delighted with how the day turned out. We loved the markets and felt grateful that we didn’t miss them. After a day like that, the train ride home felt much, much shorter.
 
 {% include figure_with_url
     url="/assets/images/posts/berlin-germany-christmas-markets/gregory-sleeping.jpeg"
