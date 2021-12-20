@@ -27,7 +27,8 @@ excerpt: "Arrival in Athens and a visit to the Ancient Agora."
    1. run `chown -R www-data:www-data /var/www/html/matomo`
 1. Go through install steps.
 1. Follow these steps: https://mmistakes.github.io/minimal-mistakes/docs/javascript/#customizing
-1. for the tracking code, enforce http for now.
+1. for the tracking code:
+   `var u = "https://analytics.gregoryhewett.com/";`
 
 https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-18-04#step-5-%E2%80%94-setting-up-virtual-hosts-recommended
 
