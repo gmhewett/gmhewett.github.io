@@ -36,14 +36,6 @@ noindex: true
     color: #fff;
   }
 
-  .share-test-button code {
-    display: block;
-    margin-top: 0.25rem;
-    color: inherit;
-    background: transparent;
-    overflow-wrap: anywhere;
-  }
-
   .share-test-status {
     padding: 1rem;
     border: 1px solid #ccc;
@@ -140,7 +132,7 @@ noindex: true
       const button = document.createElement("button");
       button.type = "button";
       button.className = "btn btn--primary share-test-button";
-      button.innerHTML = `Share: <code>${propertyLabel(properties)}</code>`;
+      button.textContent = `Share: ${propertyLabel(properties)}`;
       button.addEventListener("click", () => runTest(properties));
       tests.appendChild(button);
     }
