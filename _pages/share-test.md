@@ -33,11 +33,14 @@ noindex: true
     min-height: 4.5rem;
     padding: 0.75rem;
     text-align: left;
+    color: #fff;
   }
 
   .share-test-button code {
     display: block;
     margin-top: 0.25rem;
+    color: inherit;
+    background: transparent;
     overflow-wrap: anywhere;
   }
 
@@ -132,7 +135,7 @@ noindex: true
       }
     };
 
-    propertyNames.forEach((_, mask) => {
+    for (let mask = 0; mask < 1 << propertyNames.length; mask += 1) {
       const properties = propertyNames.filter((__, index) => mask & (1 << index));
       const button = document.createElement("button");
       button.type = "button";
@@ -140,7 +143,7 @@ noindex: true
       button.innerHTML = `Share: <code>${propertyLabel(properties)}</code>`;
       button.addEventListener("click", () => runTest(properties));
       tests.appendChild(button);
-    });
+    }
 
     if (typeof navigator.share !== "function") {
       support.textContent = "Web Share API is not available in this browser.";
